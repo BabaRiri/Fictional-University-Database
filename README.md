@@ -109,7 +109,7 @@ INSERT INTO ADVISORS (instructor_id, student_id) VALUES
 
 **Visual Schema** 
 
-![visual schema](img/visual_schema)
+![visual schema][img/visual_schema]
 
 **DEPARTMENTS Table** 
 
