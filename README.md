@@ -1,8 +1,8 @@
-**Fictional University Database Documentation**
+# Fictional University Database Documentation
 
 Prepared by Seward Richard Mupereri (20140175) Submitted to Dr. Ferhun Yorgancıoğlu at European University of Lefke
 
-**Introduction**
+## Introduction
 
 This program is a database management tool for students and instructors. It allows users to view, add, delete, and update student and instructor information in a SQLite3 database. The program is written in Python and has a GUI interface built with tkinter, and consists of three main screens:
 
